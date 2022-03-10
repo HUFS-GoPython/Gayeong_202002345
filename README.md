@@ -1,0 +1,2 @@
+# GayeongLee
+Studying Advanced Python
